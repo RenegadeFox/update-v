@@ -1,7 +1,11 @@
 {
   "name": "update-v",
-  "version": "2.3.14",
+  "version": "2.4.15",
   "description": "A simple command-line utility that updates the version in your project's package.json file.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rootr/update-v"
+  },
   "main": "index.js",
   "bin": {
     "update-v": "global.js"
