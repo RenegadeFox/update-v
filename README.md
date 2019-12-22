@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>Update-V</h1>
-</p>
+<h1 align=center>Update-V</h1>
 
 <p align="center">
     A simple command-line utility that updates the version in your project's package.json file
