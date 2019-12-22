@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/rootr/update-v/master/img/update-v.png" alt="update-v title image">
+    <h1>Update-V</h1>
 </p>
 
 <p align="center">
